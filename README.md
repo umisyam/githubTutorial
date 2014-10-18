@@ -1,12 +1,24 @@
-githubTutorial
-==============
+github_tutorial
+===============
 
-Dorkshop Github by Chris Henrick, Saturday 18 October 2014
+Learning GitHub and Git
 
-#This is H1
+## This is an H2
 
-##This is H2
+### This is an H3
 
-###This is H3
+[Here is a link](#)
 
-[This is sample of link](http://www.google.com)
+**this text will be bold**
+
+*this text will be italic*
+
+let's create a list:
+
+- here is something
+
+Here is a numbered list
+
+1. bla 
+2. bla bla
+3. 
